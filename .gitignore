@@ -1,3 +1,11 @@
+.vscode/
+dev_env/
+monero_service/
+monero_ssl_cert.pem
+monero_ssl_key.pem
+torrc
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
