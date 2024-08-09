@@ -4,7 +4,8 @@ monero_service/
 monero_ssl_cert.pem
 monero_ssl_key.pem
 torrc
-
+x25519_keys/
+monero-tor-daemon.service
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
